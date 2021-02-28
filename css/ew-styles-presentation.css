@@ -1,0 +1,244 @@
+/* Presentation Only Styles -- Do Not Copy In Your Projects */
+
+
+/* Earnware Background */
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
+
+.bd-heading a {
+	opacity: 0;
+}
+
+.bd-heading:hover a {
+	opacity: 1;
+}
+
+.bd-aside .btn {
+	color: #6F7285!important;
+}
+
+.bd-aside a:hover,
+.bd-aside a:focus,
+.bd-aside .btn:hover,
+.bd-aside .btn:focus {
+	box-shadow: 0 0 0 1px rgba(255, 255, 255, .7)!important;
+	background-color: #fff!important;
+}
+
+.bd-aside .btn::before {
+	opacity: 0.15;
+}
+
+.bd-aside:hover .btn::before {
+	opacity: 1;
+}
+
+.square {
+	float: left;
+	position: relative;
+	width: 65px;
+	padding-bottom: 65px;
+	overflow: hidden;
+}
+
+.square-1 {
+	background-color: #9EE7FB;
+	border-top-left-radius: 100%;
+	-webkit-animation: square-1-a 4s linear infinite;
+	-moz-animation: square-1-a 4s linear infinite;
+	animation: square-1-a 4s linear infinite;
+}
+
+.square-2 {
+	background-color: #85D8EF;
+	border-bottom-left-radius: 100%;
+}
+
+.square-3 {
+	background-color: #9EE7FB;
+	border-bottom-right-radius: 100%;
+}
+
+.square-4 {
+	background-color: #3780FF;
+	border-top-right-radius: 100%;
+}
+
+.square-5 {
+	background-color: #9EE7FB;
+	border-bottom-left-radius: 100%;
+}
+
+.square-6 {
+	background-color: #394C91;
+	border-bottom-right-radius: 100%;
+}
+
+.square-7 {
+	background-color: #85D8EF;
+	border-bottom-left-radius: 100%;
+}
+
+.square-8 {
+	background-color: #3780FF;
+	border-bottom-left-radius: 100%;
+}
+
+.square-9 {
+	background-color: #9EE7FB;
+	border-top-right-radius: 100%;
+	-webkit-animation: square-1-a 6s linear infinite;
+	-moz-animation: square-1-a 6s linear infinite;
+	animation: square-1-a 6s linear infinite;
+}
+
+.square-10 {
+	background-color: #394C91;
+	border-top-left-radius: 100%;
+}
+
+.square-11 {
+	background-color: #9EE7FB;
+	border-bottom-left-radius: 100%;
+	-webkit-animation: square-1-a 2s linear infinite;
+	-moz-animation: square-1-a 2s linear infinite;
+	animation: square-1-a 2s linear infinite;
+}
+
+.square-12 {
+	background-color: #85D8EF;
+	border-top-right-radius: 100%;
+}
+
+.square-13 {
+	background-color: #9EE7FB;
+	border-top-left-radius: 100%;
+}
+
+.square-14 {
+	background-color: #394C91;
+	border-bottom-right-radius: 100%;
+}
+
+.square-15 {
+	background-color: #85D8EF;
+	border-top-right-radius: 100%;
+}
+
+.square-16 {
+	background-color: #9EE7FB;
+	border-top-left-radius: 100%;
+}
+
+.square-17 {
+	background-color: #3780FF;
+	border-bottom-right-radius: 100%;
+	-webkit-animation: square-1-a 8s linear infinite;
+	-moz-animation: square-1-a 8s linear infinite;
+	animation: square-1-a 8s linear infinite;
+}
+
+@-moz-keyframes square-1-a {
+	50% {
+		opacity: 0.2;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes square-1-a {
+	50% {
+		opacity: 0.2;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes square-1-a {
+	50% {
+		opacity: 0.2;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+
+/* Sidebar */
+
+.earnware--presentation .ew-sidebar.light #presentation--earnware--submenu .feather {
+	opacity: 0;
+}
+
+.earnware--presentation .ew-sidebar.light #presentation--earnware--submenu .nav-link[aria-expanded="true"] .feather,
+.earnware--presentation .ew-sidebar.light #presentation--earnware--submenu .nav-link:hover .feather,
+.earnware--presentation .ew-sidebar.light #presentation--earnware--submenu .active .feather {
+	opacity: 0.7;
+}
+
+
+/* Content Specific */
+
+.earnware--presentation [role="main"] {
+	padding-top: calc(21px + 2.9rem);
+	/* Space for fixed navbar */
+}
+
+
+/* Content -- Anchor Links */
+
+.earnware--presentation [data-anchorjs-icon]::after {
+	color: #f2f5f8;
+	content: attr(data-anchorjs-icon);
+	left: -.6rem;
+	position: absolute;
+	transition: .1s linear;
+}
+
+.earnware--presentation h2.ew-pres:hover [data-anchorjs-icon]::after {
+	color: #6F7285;
+}
+
+.earnware--presentation h2.ew-pres:hover [data-anchorjs-icon]:hover:after {
+	color: #3780FF;
+	opacity: 1;
+}
+
+.earnware--presentation h2.ew-pres:first-child {
+	margin-top: 10px;
+}
+
+.earnware--presentation h2.ew-pres {
+	margin-bottom: 40px;
+	margin-top: 100px;
+}
+
+@media all and (max-width: 768px) {
+	.earnware--presentation [data-anchorjs-icon]::after {
+		left: .1rem;
+		opacity: .4;
+		position: relative;
+	}
+}
+
+.earnware--presentation .btn {
+	margin-bottom: .3rem;
+	/*Presentation margin bottom spacing for all the buttons*/
+}
+
+
+/* Presentation Only Styles -- Do Not Copy In Your Projects END*/
