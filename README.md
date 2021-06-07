@@ -32,5 +32,3 @@ HTML and Cascading Style Sheets are built based on [Bootstrap CSS Framework](htt
 Publishing good content is hard enough. Generating thousands of new subscribers daily, tens-of-thousands of daily visitors and making enough advertising sales to manage and grow a web business is even harder. These specialized skills and resources are not generally available for sale. Anyone with the proven abilities to generate subscribers, traffic and revenue (at a profit) just does it for themselves.
 
 Earnware grows its own marquee web enterprises and also partners with great publishers on a revenue sharing basis.
-
-## About Earnware
