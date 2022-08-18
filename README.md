@@ -19,9 +19,9 @@ HTML and Cascading Style Sheets are built based on [Bootstrap CSS Framework](htt
 * [Earnware Connect Wordpress Plugin](https://wordpress.org/plugins/earnware-connect/) 
 * [Feedspress Wordpress Plugin](https://support.earnware.com/wordpress-plugins/feedspress/download-feedspress/) 
 * [Earnlink Business Wordpress Plugin](https://business.earnlink.com/)
-* [Earnlink Business Plugin](https://support.earnware.com/earnlink/download-earnlink/)
-* Earnware Dashboard
+* [Earnlink Business Plugin](https://support.earnware.com/earnlink/download-earnlink/) 
 * [Earnware Support](https://support.earnware.com/)
+* [Reliable Core Plugins](https://reliable.dev/reliable-core-plugins/)
 
 ## Contributors
 
