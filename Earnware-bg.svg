@@ -1,330 +1,441 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="470px" height="235px" viewBox="0 0 470 235">
-<defs>
-<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-<feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.5215686274509804 0 0 0 0 0.8470588235294118 0 0 0 0 0.9372549019607843 0 0 0 1 0" result="result1"/>
-</filter>
-
-<filter id="Filter_2" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-<feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.6196078431372549 0 0 0 0 0.9058823529411765 0 0 0 0 0.984313725490196 0 0 0 1 0" result="result1"/>
-</filter>
-
-<filter id="Filter_3" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-<feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.21568627450980393 0 0 0 0 0.5019607843137255 0 0 0 0 1 0 0 0 1 0" result="result1"/>
-</filter>
-
-<filter id="Filter_4" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-<feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.2235294117647059 0 0 0 0 0.2980392156862745 0 0 0 0 0.5686274509803921 0 0 0 1 0" result="result1"/>
-</filter>
-
-<g id="Symbol_53_0_Layer0_0_FILL">
-<path fill="#8E95FC" stroke="none" d="
-M 84 0
-L 81.85 0
-Q 48.45 0.75 24.6 24.6 0.75 48.45 0 81.85
-L 0 84 84 84 84 0 Z"/>
-</g>
-
-<path id="Symbol_27_0_Layer0_0_1_STROKES" stroke="#85D8EF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
-M 84 168
-L 84 252 81.85 252
-Q 48.45 251.25 24.6 227.4 0.75 203.55 0 170.15
-L 0 168 84 168 Z
-M 168 756
-L 252 756 252 758.15
-Q 251.25 791.55 227.4 815.4 203.55 839.25 170.15 840
-L 168 840 168 756 Z
-M 420 420
-L 420 504 417.85 504
-Q 384.45 503.25 360.6 479.4 336.75 455.55 336 422.15
-L 336 420 420 420 Z"/>
-</defs>
-
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 470 235" style="enable-background:new 0 0 470 235;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#85D8EF;stroke-width:0.5528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.2114;}
+	.st1{fill:#8E95FC;}
+</style>
 <g transform="matrix( 0, 0.5528411865234375, -0.5528411865234375, 0, 467.7,2.4) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlink:href="#Symbol_27_0_Layer0_0_1_STROKES"/>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 168,0) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 168,0) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 252,0) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 420,0) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 0,84) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( -1, 0, 0, -1, 168,168) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 168,168) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_3)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 336,84) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 336,84) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 84,168) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 252,168) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 252,168) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 336,252) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 0,252) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 168,252) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 168,336) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 252,252) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 420,252) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 0,420) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_3)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 84,336) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 252,336) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_3)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 252,336) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 420,336) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 84,420) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 84,504) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 168,420) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 336,420) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 0,504) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 168,504) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 252,504) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 252,504) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 420,504) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_3)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 0,588) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 168,588) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 168,672) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_3)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 336,588) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( -1, 0, 0, -1, 420,672) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 84,672) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 84,672) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 168,756) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( -1, 0, 0, -1, 336,756) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 336,672) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, -1, 1, 0, 0,840) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 84,756) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_1)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 252,756) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_4)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
-
-<g transform="matrix( 0, 1, -1, 0, 420,756) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
-</g>
-</g>
+	<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+		<g>
+			<path id="Symbol_27_0_Layer0_0_1_STROKES" class="st0" d="M84,168v84h-2.2c-22.3-0.5-41.4-8.7-57.3-24.6S0.5,192.4,0,170.2V168
+				H84z M168,756h84v2.2c-0.5,22.3-8.7,41.3-24.6,57.3c-15.9,15.9-35,24.1-57.3,24.6H168V756z M420,420v84h-2.1
+				c-22.3-0.5-41.4-8.7-57.3-24.6c-15.9-15.9-24.1-35-24.6-57.2V420H420z"/>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 168,0) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_1_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 168,0) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_2_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 252,0) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_3_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 420,0) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_4_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 0,84) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_5_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( -1, 0, 0, -1, 168,168) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_6_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 168,168) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_7_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 336,84) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_8_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 336,84) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_9_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 84,168) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_10_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 252,168) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_11_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 252,168) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_12_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 336,252) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_13_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 0,252) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_14_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 168,252) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_15_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 168,336) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_16_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 252,252) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_17_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 420,252) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_18_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 0,420) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_19_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 84,336) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_20_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 252,336) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_21_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 252,336) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_22_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 420,336) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_23_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 84,420) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_24_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 84,504) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_25_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 168,420) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_26_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 336,420) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_27_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 0,504) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_28_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 168,504) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_29_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 252,504) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_30_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 252,504) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_31_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 420,504) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_32_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 0,588) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_33_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 168,588) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_34_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 168,672) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_35_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 336,588) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_36_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( -1, 0, 0, -1, 420,672) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_37_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 84,672) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_38_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 84,672) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_39_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 168,756) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_40_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( -1, 0, 0, -1, 336,756) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_41_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 336,672) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_42_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, -1, 1, 0, 0,840) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_43_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 84,756) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_44_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 1, 0, 0, 1, 252,756) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_45_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.9V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix( 0, 1, -1, 0, 420,756) ">
+		<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+			<g>
+				<g id="Symbol_53_0_Layer0_0_FILL_46_">
+					<path class="st1" d="M84,0h-2.2C59.6,0.5,40.5,8.7,24.6,24.6S0.5,59.6,0,81.8V84h84V0z"/>
+				</g>
+			</g>
+		</g>
+	</g>
 </g>
 </svg>
