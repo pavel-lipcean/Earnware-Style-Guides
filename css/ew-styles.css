@@ -774,8 +774,8 @@ button.bg-yellow-feedspress:focus,
 }
 
 .btn-outline-light:hover {
-	background-color: #222963!important;
-	border-color: #222963!important;
+	background-color: #222963 !important;
+	border-color: #222963 !important;
 	color: #fff;
 }
 
@@ -984,14 +984,17 @@ td.ew-table-num {
 }
 
 @media all and (max-width: 1200px) {
+
 	.ew-table td,
 	.ew-table th {
 		padding: .75rem 0;
 	}
+
 	.ew-table thead {
 		border: 0 none;
 		display: none;
 	}
+
 	.ew-table td[title]:before {
 		content: attr(title);
 		float: left;
@@ -1002,6 +1005,7 @@ td.ew-table-num {
 		white-space: normal;
 		width: auto;
 	}
+
 	.ew-table td {
 		float: left;
 		padding-left: 10px;
@@ -1009,22 +1013,27 @@ td.ew-table-num {
 		text-align: right;
 		width: 100%;
 	}
+
 	.ew-table tr {
 		float: left;
 		margin-top: 2rem;
 		width: 100%;
 	}
+
 	.ew-table tr:first-child {
 		margin-top: 0;
 	}
+
 	.ew-table.ew-table-edit td {
 		float: left;
 		width: 100%;
 	}
+
 	.ew-table.ew-table-edit td:first-child,
 	.ew-table.ew-table-edit td:last-child {
 		border: 0 none;
 	}
+
 	.ew-table.ew-table-edit tr {
 		border: 1px solid rgba(148, 158, 174, .2);
 		float: left;
@@ -1032,10 +1041,12 @@ td.ew-table-num {
 		padding: 0 .35rem;
 		position: relative;
 	}
+
 	.ew-table.ew-table-edit td:first-child {
 		text-align: left;
 		/*For the checkbox*/
 	}
+
 	.ew-table.ew-table-edit tr td:last-child {
 		float: left;
 		position: absolute;
@@ -1061,9 +1072,11 @@ td.ew-table-num {
 		max-width: 100%;
 		text-align: center;
 	}
+
 	.navbar {
 		position: relative;
 	}
+
 	[role="main"] {
 		padding-top: 21px;
 	}
@@ -1151,14 +1164,14 @@ td.ew-table-num {
 /* Dark Sidebar */
 
 .ew-sidebar.dark .nav-link:hover {
-	color: rgba(255, 255, 255, 0.8)!important;
+	color: rgba(255, 255, 255, 0.8) !important;
 }
 
 
 /* Light Sidebar */
 
 .ew-sidebar.light .nav-link:hover {
-	color: rgba(0, 0, 0, 0.8)!important;
+	color: rgba(0, 0, 0, 0.8) !important;
 }
 
 .ew-sidebar.light .feather {
@@ -1170,7 +1183,7 @@ td.ew-table-num {
 }
 
 .ew-sidebar.light .active .text-black-50 {
-	color: #232533!important;
+	color: #232533 !important;
 }
 
 
@@ -1342,7 +1355,7 @@ td.ew-table-num {
 }
 
 .modal-backdrop.show {
-	background-color: #222963!important;
+	background-color: #222963 !important;
 	opacity: 0.55;
 }
 
